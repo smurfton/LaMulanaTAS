@@ -1,8 +1,5 @@
 Future features:
 	Patching tool
-	TAS Input display
-	Screen exit display
-	Current screen id display
 Enhancements:
 	Display all types of errors in the game window.  Maybe use GDI drawing on the window's DC in IncFrame since that should be between a Present and a Sleep?
 	Support non-default key mappings
